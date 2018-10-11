@@ -1,0 +1,8 @@
+﻿  源.cpp
+f:\monte2\monte2\源.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+f:\monte2\monte2\源.cpp(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+f:\monte2\monte2\源.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+f:\monte2\monte2\源.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+f:\monte2\monte2\源.cpp(8): warning C4326: “main”的返回类型应为“int”而非“void”
+f:\monte2\monte2\源.cpp(14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  monte2.vcxproj -> F:\monte2\Debug\monte2.exe
